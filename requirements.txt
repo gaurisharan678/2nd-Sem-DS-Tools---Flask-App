@@ -1,0 +1,7 @@
+joblib
+flask 
+pandas 
+pickle5
+numpy 
+scikit-learn
+gunicorn
